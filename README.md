@@ -3,5 +3,5 @@
 Test http2
 
 ```cli
-npm start
+npm start -- --port=80 --plain
 ```
